@@ -2,9 +2,7 @@
 
 Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem de programação.
 
-## Resultado do Projeto
-
-<img src="https://github.com/ItaloRochaj/desafio/blob/master/Screenshot_3.png">
+<img src="https://github.com/ItaloRochaj/desafio/blob/master/Screenshot_4.png>
 
 
 ## Tecnologias Utilizadas
@@ -23,6 +21,10 @@ Lembre-se que para fazer a saída de valores, é necessário ter saldo suficient
 O menu deve aparecer continuamente até que o usuário digite a opção para sair.
 Caso ele digite qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
 Usaremos a classe Scanner para fazer a leitura da opção do usuário.
+
+## Resultado do Projeto
+
+<img src="https://github.com/ItaloRochaj/desafio/blob/master/Screenshot_3.png">
 
 ## Autor:
 <table>
