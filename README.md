@@ -1,17 +1,18 @@
-# Conta bancaria virtual
+# Conta báncaria Virtual
 
 Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem de programação.
 
 ## Resultado do Projeto
 
-<img src ="https://ibb.co/wdfTG5k">
+<img src="https://ibb.co/wdfTG5k">
 
 
 ## Tecnologias Utilizadas
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg"> |
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Java-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg"> |
+
 
 ## Requisitos do Projeto
 Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
