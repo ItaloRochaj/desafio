@@ -4,7 +4,7 @@ Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem d
 
 ## Resultado do Projeto
 
-<img src="https://ibb.co/wdfTG5k">
+<img src="https://github.com/ItaloRochaj/desafio/blob/master/Screenshot_3.png">
 
 
 ## Tecnologias Utilizadas
