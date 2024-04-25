@@ -6,14 +6,14 @@ Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem d
 
 <img src ="https://ibb.co/wdfTG5k">
 
+
 ## Tecnologias Utilizadas
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Java-Dark.svg"> |
-<img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg"> |
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg"> |
 
-## Objetivos do Projeto
+## Requisitos do Projeto
 Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
 Criar um menu que descreve as operações. Aqui você pode escolher o nome do método que mais lhe agrada, como saca (ou transfere, enviaPix) para simular a retirada de valores da conta e deposita (ou recebeTransferencia, recebePix) para representar a entrada de valores na conta.
 
