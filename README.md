@@ -10,8 +10,8 @@ Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem d
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Java-Dark.svg"> / 
-<img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg">
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Java-Dark.svg"> |
+<img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Idea-Light.svg"> |
 
 ## Objetivos do Projeto
 Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
