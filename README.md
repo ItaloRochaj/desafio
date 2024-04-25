@@ -3,7 +3,8 @@
 Projeto focado em java, com enfoque em fomentar o conhecimento nessa linguagem de programação.
 
 ## Resultado do Projeto
-![](https://github.com/ItaloRochaj/criptocode.github.io/blob/main/assets/imagens/arquivo.gif.gif)
+
+[](https://ibb.co/wdfTG5k)
 
 ## Tecnologias Utilizadas
 
